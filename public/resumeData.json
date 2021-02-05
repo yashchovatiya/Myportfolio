@@ -1,0 +1,104 @@
+{
+  "main": {
+    "name": "Yash Chovatiya",
+    "occupation": "Developer",
+    "description": "Passionate about learning new technologies",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Yash. I've been coding for over 3 years now. As a Full Stack developer I've worked  with startups and small corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers.",
+    "contactmessage": "Get in touch with me!",
+    "email": "yashchovatiya9989@gmail.com",
+    "phone": "+91 9173824572",
+    "address": {
+      "street": "Raisan",
+      "city": "Gandhinagar",
+      "state": "Gujarat",
+      "zip": "382007"
+    },
+    "resumedownload": "https://drive.google.com/file/d/1cBYGKjWIsPsE9I_azZOlOBMYJLXEZaZE/view?usp=sharing",
+    "social": [
+     
+     
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/yash-chovatiya/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/yashchovatiya",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Pandit Deendayal Petroleum University",
+        "degree": "Bachelor's Degree, Information And Communication Technology",
+        "graduated": "May 2022",
+        "description": "CGPA: 8.71(till 4th semester)"
+      }
+    ],
+    "work": [
+      {
+        "company": "The Young Minds",
+        "title": "Product Development Intern",
+        "years": "November 2020-February 2021",
+        "description": "Develop an online assessment tool in which I work on Reactjs and MaterialUI in front-end.Create landing pages in Reactjs and materialUI. Find some bug on company’s product"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "JAVA",
+        "level": "60%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "Web Development",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Scheduling Algorithm",
+        "category": "",
+        "image": "os.jpg",
+        "url": "https://cpu-scheduling-algorithm-38523.web.app/"
+      },
+      {
+        "title": "Sudoku Solver(python)",
+        "category": "",
+        "image": "s1.jpg",
+        "url": "https://github.com/yashchovatiya/sudokusolver"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "Linkedin1.jpg",
+        "url": "https://linkedin-clone-78924.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Great team member , dedicated towards his work and good in nature .",
+        "user": "Aelish Boghani"
+      }
+    ]
+  }
+}
